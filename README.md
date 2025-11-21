@@ -8,9 +8,9 @@ This repository contains code and datasets supporting the study
 **“Beyond the Bare Minimum: Assessing Data Availability and Quality for Comprehensive Baselining and Plastic Pollution Modeling in the Philippines.”** 
 
 It includes Python scripts on a Jupyter Notebook environment for:
-- Data preprocessing  
-- Exploratory and multivariate analyses  
-- Visualizations for a reproducible workflow  
+- Data retrieval from OpenAlex and Scopus API  
+- Data parsing, cleaning, normalization, and deduplication 
+- Removal of stop words for term extraction and co-occurrence network analysis
 
 ---
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org)
@@ -24,12 +24,4 @@ All code was developed by **Erish Daranciang** and his co-authors for this study
 ---
 ### Dependencies
 
-The project relies on the following [core libraries](requirements.txt), all of which are distributed under permissive open-source licenses (BSD or MIT).
-
-- [NumPy](https://numpy.org/)  
-- [pandas](https://pandas.pydata.org/)  
-- [matplotlib](https://matplotlib.org/)  
-- [seaborn](https://seaborn.pydata.org/)  
-- [SciPy](https://www.scipy.org/)  
-- [scikit-learn](https://scikit-learn.org/)
-- [networkX](https://networkx.org/)
+The project relies on the [core libraries](requirements.txt), all of which are distributed under permissive open-source licenses (BSD or MIT).
