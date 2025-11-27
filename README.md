@@ -11,6 +11,7 @@ It includes Python scripts on a Jupyter Notebook environment for:
 - Data retrieval from OpenAlex and Scopus API  
 - Data parsing, cleaning, normalization, and deduplication 
 - Removal of stop words for term extraction and co-occurrence network analysis
+- Thematic mapping function for identification of motor, basic, niche, and emerging/declining themes
 
 ---
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org)
