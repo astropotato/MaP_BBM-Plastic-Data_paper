@@ -11,6 +11,7 @@ babel==2.17.0
 beautifulsoup4==4.14.2
 biom_format==2.1.17
 bleach==6.2.0
+blinker==1.9.0
 bokeh==3.8.0
 certifi==2025.10.5
 cffi==2.0.0
@@ -19,6 +20,7 @@ choreographer==1.2.1
 click==8.3.0
 colorcet==3.1.0
 comm==0.2.3
+community==1.0.0b1
 contourpy==1.3.3
 cycler==0.12.1
 debugpy==1.8.17
@@ -27,6 +29,7 @@ defusedxml==0.7.1
 et_xmlfile==2.0.0
 executing==2.2.1
 fastjsonschema==2.21.2
+Flask==3.1.2
 fonttools==4.60.1
 fqdn==1.5.1
 ftfy==6.3.1
@@ -42,6 +45,7 @@ ipython==9.6.0
 ipython_pygments_lexers==1.1.1
 ipywidgets==8.1.7
 isoduration==20.11.0
+itsdangerous==2.2.0
 jedi==0.19.2
 Jinja2==3.1.6
 joblib==1.5.2
@@ -112,6 +116,7 @@ pytest==9.0.1
 pytest-timeout==2.4.0
 python-dateutil==2.9.0.post0
 python-json-logger==4.0.0
+python-louvain==0.16
 pytz==2025.2
 pyviz_comms==3.0.6
 PyYAML==6.0.3
@@ -123,6 +128,9 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rfc3987-syntax==1.1.0
 rpds-py==0.27.1
+rpy2==3.6.4
+rpy2-rinterface==3.6.3
+rpy2-robjects==3.6.3
 scikit-bio==0.7.0
 scikit-learn==1.7.2
 scipy==1.16.2
@@ -143,6 +151,7 @@ traitlets==5.14.3
 types-python-dateutil==2.9.0.20251008
 typing_extensions==4.15.0
 tzdata==2025.2
+tzlocal==5.3.1
 uc-micro-py==1.0.3
 uri-template==1.3.0
 urllib3==2.5.0
@@ -150,5 +159,6 @@ wcwidth==0.2.14
 webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.9.0
+Werkzeug==3.1.3
 widgetsnbextension==4.0.14
 xyzservices==2025.10.0
