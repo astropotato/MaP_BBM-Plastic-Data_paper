@@ -20,7 +20,7 @@ It includes Python scripts on a Jupyter Notebook environment for:
 
 ### Code Attribution
 
-All code was developed by **Erish Daranciang** and his co-authors for this study. Portions of the initial boilerplate and syntax were generated using **OpenAI's ChatGPT** and **GitHub Copilot**, then extensively modified to meet the specific objectives of this research.
+All code in this repository was developed by **Erish Daranciang** and his co-authors. Minimal routine boilerplate and syntax adjustments were initially assisted by **OpenAI's ChatGPT** and **GitHub Copilot**, then fully adapted and refined to align with the specific objectives, workflow, and requirements of this research.
 
 ---
 ### Dependencies
