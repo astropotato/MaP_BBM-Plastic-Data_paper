@@ -30,7 +30,7 @@ et_xmlfile==2.0.0
 executing==2.2.1
 fastjsonschema==2.21.2
 Flask==3.1.2
-fonttools==4.60.1
+fonttools==4.61.0
 fqdn==1.5.1
 ftfy==6.3.1
 h11==0.16.0
