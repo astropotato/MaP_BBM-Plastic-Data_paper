@@ -12,7 +12,7 @@ beautifulsoup4==4.14.2
 biom_format==2.1.17
 bleach==6.2.0
 blinker==1.9.0
-bokeh==3.8.0
+bokeh==3.8.2
 certifi==2025.10.5
 cffi==2.0.0
 charset-normalizer==3.4.3
