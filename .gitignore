@@ -1,2 +1,9 @@
-Icon
-Figure7_Case_proximities_data_qgis/Icon
+# Ignore folders named icon or icons anywhere in the project
+/icon/
+/icons/
+**/icon/
+**/icons/
+
+# Ignore all specific icon file formats
+*.ico
+
